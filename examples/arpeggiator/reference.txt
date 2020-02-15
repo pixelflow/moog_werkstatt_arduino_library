@@ -1,0 +1,25 @@
+Arpeggiator Reference Sheet
+
+
+Chords:
+M_triad[] = {tonic, major3rd, fifth};
+minor_triad[] = {tonic, minor3rd, fifth};
+aug_triad[] = {tonic, major3rd, minor6th};
+dim_triad[] = {tonic, minor3rd, tritone};
+dim7th[] = {tonic, minor3rd, tritone, major6th};
+half_dim7th[] = {tonic, minor3d, tritone, minor7th};
+minor7th[] = {tonic, minor3rd, fifth, minor7th};
+dom7th[] = {tonic, major3rd, fifth, minor7th};
+major7th[] = {tonic, major3rd, fifth, major7th};
+aug7th[] = {tonic, major3rd, minor6th, minor7th};
+aug_major7th[] = {tonic, major3rd, minor6th, major7th};
+
+
+Modes:
+ionian[] = {tonic, major2nd, major3rd, fourth, fifth, major6th, major7th, octave}; 
+dorian[] = {tonic, major2nd, minor3rd, fourth, fifth, major6th, minor7th, octave};
+phrygian[] = {tonic, minor2nd, minor3rd, fourth, fifth, minor6th, minor7th, octave};
+lydian[] = {tonic, major2nd, major3rd, tritone, fifth, major6th , major7th, octave};
+mixolydian[]= {tonic, major2nd, major3rd, fourth, fifth, major6th , minor7th, octave};
+aeolian[] = {tonic, major2nd, minor3rd, fourth, fifth, minor6th, minor7th, octave};
+locrian[] = {tonic, minor2nd, minor3rd, fourth, tritone, minor6th, minor7th, octave};
